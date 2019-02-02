@@ -22,9 +22,11 @@ curl http://localhost:8000/
 ```
 
 
-cc.
-    @dalvangsilva
-    @ericikeda
+cc:
+
+[@dalvangsilva](http://github.com/dalvangsilva)
+
+[@ericikeda](https://www.linkedin.com/in/eric-ikeda-324a791b/)
 
 =]
 
