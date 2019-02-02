@@ -24,9 +24,9 @@ curl http://localhost:8000/
 
 cc:
 
-[@dalvangsilva](http://github.com/dalvangsilva)
+[@dalvangsilva](http://github.com/dalvangsilva){:target="_blank"}
 
-[@ericikeda](https://www.linkedin.com/in/eric-ikeda-324a791b/)
+[@ericikeda](https://www.linkedin.com/in/eric-ikeda-324a791b/){:target="_blank"}
 
 =]
 
